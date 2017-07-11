@@ -1,0 +1,6 @@
+<div class="btn-group btn-group-justified shadow">
+    <div class="btn-group" *ngFor="let item of items">
+        <button class="btn" type="button" [ngClass]="{'primary-bg' : item.selected, 'primary-border' : item.selected}" [innerHTML]="item.title"
+            [class.active]="item.selected" [disabled]="item.disabled" (click)="selectSegmentedItem(item)"></button>
+    </div>
+</div>
