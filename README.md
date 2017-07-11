@@ -6,6 +6,8 @@
 
 Simplistic segmented bars (button groups) in Angular.
 
+![Example Image](https://media.giphy.com/media/3o7btM1DyLY6t3Ky7C/giphy.gif)
+
 1. `npm i ngx-segmented-bar --s`
 2. Add `NgxSegmentedBarModule` to your feature module.
 ```

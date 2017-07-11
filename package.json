@@ -1,6 +1,6 @@
 {
   "name": "ngx-segmented-bar",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "ngx-segmented-bar, an Angular library",
   "main": "./bundles/ngx-segmented-bar.umd.js",
   "jsnext:main": "./ngx-segmented-bar.js",
